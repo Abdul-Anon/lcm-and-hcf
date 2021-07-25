@@ -1,5 +1,6 @@
 # lcm-and-hcf
 Find LCM and HCF
+This is able to find the L.C.M and H.C.F of two numbers
 
 # Dependence 
 1.) Tkinter
@@ -25,7 +26,7 @@ python main.py
 python3 main.py
 ```
 
-# Screenshot
+# Screenshots
 <img src="Screenshot/HCF.png" alt="HCF" />
 <br>
 <img src="Screenshot/LCM.png" alt="HCF" />
